@@ -1,25 +1,23 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi 👋, I'm Priti Gupta</h1>
 <h3 align="center">A passionate frontend developer from India and also a Machine Larning Enthusiast</h3>
-<div margin-top="150px">
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **HTML, CSS, REACT**
-
-- 📫 How to reach me **pritigupta1144@gmail.com**
-  </div>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritigupta118&label=Profile%20views&color=0e75b6&style=flat" alt="pritigupta118" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritigupta118" alt="pritigupta118" /></a> </p>
+
+
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML, CSS, REACT**
 
 - 📫 How to reach me **pritigupta1144@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
